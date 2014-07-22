@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "daniel.rusche@icloud.com",
+    "longName": "pGPS",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "pGPS",
+    "uuid": "256db089-1c44-44e1-b775-677e0f4e8f05",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
